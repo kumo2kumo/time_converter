@@ -1,7 +1,6 @@
 import discord
 import re
 from converter import Converter
-from config import CONFIG
 
 
 class MyBot(discord.Client):
@@ -33,6 +32,4 @@ class MyBot(discord.Client):
                 await message.channel.send(converted_time)
 
 
-bot = MyBot()
-# Discordボットを起動
-bot.run(CONFIG["TOKEN"])
+
