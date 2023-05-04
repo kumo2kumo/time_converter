@@ -9,4 +9,5 @@ Enter
 then it display the local time of the other.
 
 examle:
-![pic](C:\Users\amgok\Pictures\Screenshots\folder\time_converter.png)
+
+<img width="290" alt="time_converter" src="https://user-images.githubusercontent.com/45539864/236153402-68809550-ff63-47ce-a1a3-98c2ad43d441.png">
