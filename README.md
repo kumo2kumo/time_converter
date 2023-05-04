@@ -1,5 +1,5 @@
 # Time Converter 
-This is a script that calculates the time difference between two locations and displays it in local time:
+This is a script that calculates the time difference between two locations and displays it in local time on discord:
 
 The originals are Los Angeles and Tokyo.
 
